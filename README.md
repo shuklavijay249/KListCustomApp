@@ -34,3 +34,7 @@ KList.builder<Coin>()
     }
     .withDivider()
     .render()
+
+## 📸 Screenshot
+
+![KList DSL Demo](https://github.com/shuklavijay249/KList/blob/main/screenshot.png)
