@@ -37,5 +37,4 @@ KList.builder<Coin>()
 
 ## 📸 Screenshot
 
-```markdown
-![KList DSL Demo](assets/Screenshot.png)
+![KList DSL Demo](https://raw.githubusercontent.com/shuklavijay249/KListCustomApp/main/assets/Screenshot.png)
